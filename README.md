@@ -47,4 +47,3 @@ The code is intentionally modular so you can swap datasets, models, or preproces
 
 ---
 
-## Repository structure
