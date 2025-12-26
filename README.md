@@ -9,21 +9,6 @@ A simple, modular Python project that trains a disease classification model on a
 ## Table of contents
 - [Overview](#overview)
 - [Features](#features)
-- [Repository structure](#repository-structure)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Quickstart](#quickstart)
-  - [Train the model](#train-the-model)
-  - [Evaluate the model](#evaluate-the-model)
-  - [Predict (CLI)](#predict-cli)
-  - [Serve (FastAPI)](#serve-fastapi)
-- [Example output](#example-output)
-- [Docker (optional)](#docker-optional)
-- [Tips to improve](#tips-to-improve)
-- [Contributing](#contributing)
-- [License & Acknowledgements](#license--acknowledgements)
-
 ---
 
 ## Overview
